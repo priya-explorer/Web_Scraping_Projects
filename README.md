@@ -3,7 +3,7 @@
 Web Scraping or Data Scraping is a technique used to extract content and data from the website. This collected information is then exported into a format that is useful for user.
 
 ## Steps involved in web scraping using Beautiful Soup
-   ### 1) Find the URL that you want to scraped
+   ### 1) Find the URL that you want to scrap
    
    ### 2) Inspect the page
    
